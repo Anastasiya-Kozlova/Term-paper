@@ -1,7 +1,5 @@
 #include "MyForm.h"
 
-
-
 using namespace System;
 using namespace System::Windows::Forms;
 
@@ -11,7 +9,7 @@ void Main(array<System :: String^>^args)
 {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
-	Проект1::MyForm form, form1;
+	ГЏГ°Г®ГҐГЄГІ1::MyForm form, form1;
 	Application::Run(%form);
 
 }
